@@ -14,6 +14,6 @@ public class ServicioSalud {
         });
         server.setExecutor(null);
         server.start();
-        System.out.println("Servicio de salud iniciado en :8080");
+        System.out.println("Servicio de salud iniciado en :9090");
     }
 }
